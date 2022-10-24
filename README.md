@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit
-- 👀 I’m interested in learning Programming Languages.
+- 👀 I’m interested in learning Web Development [Learning ReactJS rn].
 - 🌱 I’m currently learning JS and Frameworks like bootstrap and React.
 - 💞️ I’m looking to collaborate on JS Language Intermediate JS projects.
 - 📫 I'll be uploading WebDev Projects just for now.
