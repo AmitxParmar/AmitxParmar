@@ -1,4 +1,7 @@
 # `Welcome to my Profile.`
+### `Socials:`
+<p align="center" src="https://skillicons.dev/icons?i=instagram alt="Social Accounts" /> Instagram <p>
 <br/>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-<p align="left"><img src="https://skillicons.dev/icons?i=react,node,mongodb,devopsgit,github,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
+
+
+<p align="left"><img src="https://skillicons.dev/icons?i=javascipt,mongodb,express,react,node,css3,devops,git,github,docker,ts&perline=16" alt="Tech Stack" /> 
