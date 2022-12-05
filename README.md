@@ -4,4 +4,4 @@
 <br/>
 
 
-<p align="left"><img src="https://skillicons.dev/icons?i=javascipt,mongodb,express,react,node,css3,devops,git,github,docker,ts&perline=16" alt="Tech Stack" /> 
+<p align="left"><img src="https://skillicons.dev/icons?i=javascipt,mongodb,express,react,nodejs,css3,devops,git,github,docker,ts&perline=16" alt="Tech Stack" /> 
