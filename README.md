@@ -18,4 +18,4 @@
                                                                                      
 #### `Skills:`
 
-<p align="left"><img src="https://skillicons.dev/icons?i=js,mongodb,react,firebase,jquery,graphql,css,materialui,bootstrap,netlify,nextjs,linux,git,github&perline=16&theme=light" alt="Skills" /> 
+<p align="left"><img src="https://skillicons.dev/icons?i=js,mongodb,react,firebase,nodejs,graphql,css,materialui,netlify,nextjs,linux,git,github&perline=16&theme=light" alt="Skills" /> 
