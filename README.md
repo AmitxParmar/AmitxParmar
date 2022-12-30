@@ -1,6 +1,8 @@
 # Hey, there! <a href="github.com/amitxparmar"><img src="https://skillicons.dev/icons?i=github&perline=1" alt="Social Accounts" /></a>
 
 ### `Welcome to my Profile.`
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitxparmar&show_icons=true&theme=transparent)
+
 
 #### `Socials:`
 <a href="https://www.instagram.com/amitxxparmar">
