@@ -1,6 +1,8 @@
 # Hey, there! <a href="github.com/amitxparmar"><img src="https://skillicons.dev/icons?i=github&perline=1" alt="Social Accounts" /></a>
+
 ### `Welcome to my Profile.`
-<img src="/assets/header.png" />
+<img src="/assets/header.png" alt='Tech icons' style="display: block;"/>
+
 #### `Socials:`
 <a href="https://www.instagram.com/amitxxparmar">
   <img src="https://skillicons.dev/icons?i=instagram&perline=1 alt="Instagram" />
