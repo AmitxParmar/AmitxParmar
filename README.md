@@ -1,6 +1,6 @@
 # Hey, there! <a href="github.com/amitxparmar"><img src="https://skillicons.dev/icons?i=github&perline=1" alt="Social Accounts" /></a>
 ### `Welcome to my Profile.`
-
+<img src="/assets/header.png/>
 #### `Socials:`
 <a href="https://www.instagram.com/amitxxparmar">
   <img src="https://skillicons.dev/icons?i=instagram&perline=1 alt="Instagram" />
@@ -22,6 +22,6 @@
 
 
                                                                                      
-#### `Skill:`
+#### `Skills:`
 
 <p align="left"><img src="https://skillicons.dev/icons?i=js,ts,mongodb,react,firebase,nodejs,css,materialui,netlify,nextjs,linux,git,github&perline=16&theme=light" alt="Skills" /> 
