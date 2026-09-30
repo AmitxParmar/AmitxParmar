@@ -1,70 +1,56 @@
-
 <p align="center">
-  <img src="/assets/header.png" alt="Welcome Banner" style="width:100%;max-width:800px;" />
+  <img src="/assets/header.png" alt="Amit Parmar Banner" width="100%" />
 </p>
-
-<h1 align="center">Hey 👋 I'm Amit Parmar</h1>
 <p align="center">
-  <a href="https://github.com/amitxparmar">
-    <img src="https://skillicons.dev/icons?i=github&perline=1" alt="GitHub" />
+  <!-- Daily Commit Streak & Longest Streak -->
+  <a href="https://github.com/AmitxParmar">
+    <img src="https://streak-stats.demolab.com/?user=AmitxParmar&theme=dracula&hide_border=false&border_radius=8" alt="Amit's GitHub Streak" />
   </a>
 </p>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer | MERN Specialist | Curious Builder</b>
-</p>
+# Amit Parmar
+**Full-Stack AI & Distributed Systems Engineer**
 
----
+Savarkundla, Gujarat, India
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-bento--grid-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bento-grid.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amitxparmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitxparmar)
+[![GitHub](https://img.shields.io/badge/GitHub-AmitxParmar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitxParmar)
+[![Email](https://img.shields.io/badge/Email-amitparmar901%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitparmar901@gmail.com)
 
-- 💻 I build **end-to-end web apps**—from clean, responsive UIs to secure, scalable backends.  
-- ⚡ Skilled in **MERN stack, Next.js, real-time systems (Socket.IO)**, and modern state management.  
-- 🌱 Always learning—currently exploring **cloud deployment (EC2, Docker)** and sharpening **UI/UX**.  
-- 🎯 I enjoy experimenting, breaking things, and learning from open-source communities.  
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amitxparmar">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/amitxparmar">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:amitparmar901@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+### 👨‍💻 What I Build
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,redux,prisma,mongodb,firebase,linux,git,github,docker,aws,vscode,figma,postman&perline=9" alt="Skills" />
-</p>
+I design and build end-to-end architectures across **distributed backend microservices**, **real-time systems**, and **agentic AI workflows**:
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitxparmar&show_icons=true&theme=dracula" alt="Amit's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitxparmar&langs_count=8&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
-</p>
+* 🤖 **Agentic & RAG Systems:** Multi-stage hybrid retrieval pipelines (HyDE + dense vector + full-text search with RRF reranking), streaming citation verification, and resilient Model Gateways with provider fallback.
+* ⚡ **Distributed & Event-Driven Backends:** Asynchronous Saga patterns, high-throughput message brokers (RabbitMQ, Redis Pub/Sub), and race-condition prevention using PostgreSQL pessimistic locking.
+* 🔄 **Real-Time & Local-First:** Non-blocking socket tiers, local-first client caching via Dexie.js (IndexedDB), and resilient background queue workers (BullMQ) delivering push notifications.
 
 ---
 
-## 📌 Featured Projects
+### 🚀 Featured Engineering Projects
 
-- [**HireCrowd**](https://startling-croissant-d44195.netlify.app/) – Full-stack job portal with role-based auth, TanStack Query, and smooth UI/UX.  
-- [**QuickChat**](https://quick-chat-redesigned-five.vercel.app/) – Real-time chat app with Socket.IO, TypeScript, and interactive messaging features.  
+| Project | Architecture & Stack | Key Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Agentic Research Workspace** | `FastAPI` `LangGraph` `pgvector` `Cohere` `Next.js` | Built an enterprise RAG knowledge engine with async multi-modal ingestion (`arq`), hybrid retrieval (HyDE + dense + FTS with Cohere rerank-v3), and a LangGraph ReAct agent routed behind a Groq/OpenRouter fallback gateway. | [Live App](https://agentic-knowledge-base-web.vercel.app/research) • [GitHub](https://github.com/AmitxParmar/agentic-knowledge-base) |
+| **Modular Mart** | `NestJS` `RabbitMQ` `PostgreSQL` `Stripe` `Turborepo` | Event-driven microservices e-commerce system implementing asynchronous Saga patterns across order/payment domains and pessimistic locking for 100% accurate, race-free inventory management. | [Live App](https://modular-mart-microservices-web.vercel.app/) • [GitHub](https://github.com/AmitxParmar/modular-mart-microservices) |
+| **QuickChat** | `Next.js` `Socket.io` `Redis Pub/Sub` `BullMQ` `Dexie.js` | Horizontally scalable chat system featuring a local-first client layer (Dexie.js/IndexedDB) for offline messaging, optimistic state syncing, and BullMQ background workers for reliable Web Push delivery. | [Live App](https://quick-chat-redesigned-five.vercel.app/) • [GitHub](https://github.com/AmitxParmar/rapid-quest-assignment) |
+| **Realtime Market Lab** | `React` `TypeScript` `Web Workers` `Canvas API` | Frontend stress-test laboratory benchmarking rendering performance under a continuous feed of 5,000+ ticks/sec without UI frame drops. | [GitHub](https://github.com/AmitxParmar/realtime-market-lab) |
+| **HireCrowd** | `React` `Node.js` `Express` `MongoDB` `TanStack Query` | Full-stack job portal & ATS featuring role-based access control (RBAC), multi-stage applicant filtering, and optimistic state mutations. | [Live App](https://job-portal-mern-sigma.vercel.app/) • [GitHub](https://github.com/AmitxParmar/job-portal-mern) |
 
 ---
 
-⭐️ Always open to collaboration and new opportunities!
+### 🛠️ Tech Stack & Ecosystem
+
+```text
+AI & Retrieval  ── LangGraph · pgvector · Cohere Rerank · Multi-modal Ingestion · Model Gateways
+Distributed     ── RabbitMQ · BullMQ · Redis Pub/Sub · Socket.IO · Event-Driven Sagas
+Backend         ── Node.js · NestJS · FastAPI · Express.js · REST · WebSockets · SSE
+Databases       ── PostgreSQL · Supabase · MongoDB · Prisma · Dexie.js (IndexedDB)
+Frontend        ── Next.js · React · TypeScript · TanStack Query · Zustand · TailwindCSS
+DevOps & Tools  ── Docker · Turborepo · AWS EC2 · Git · Linux
